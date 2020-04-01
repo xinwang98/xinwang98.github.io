@@ -19,6 +19,6 @@ Most recently, I am interested in Explainable deep learning
 
 Publication
 ======
-* **Interpretable CNNs for Object Classification**\
-    Quanshi Zhang, **Xin Wang**, Ying Nian Wu, Huilin Zhou, and Song-Chun Zhu\
+* **Interpretable CNNs for Object Classification**<br>
+    Quanshi Zhang, **Xin Wang**, Ying Nian Wu, Huilin Zhou, and Song-Chun Zhu<br>
     accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
