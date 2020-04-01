@@ -15,7 +15,7 @@ I received my B.Eng. degree from [Yingcai Honor College](http://www.yingcai.uest
 Research Interests
 ======
 My research interests include topics in machine learning and computer vision.
-Most recently, I am interested in Explainable deep learning
+Most recently, I am interested in Explainable deep learning.
 
 Publication
 ======
