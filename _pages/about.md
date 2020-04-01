@@ -15,7 +15,8 @@ I received my B.Eng. degree from [Yingcai Honor College](http://www.yingcai.uest
 My research interests include topics in machine learning and computer vision.
 Most recently, I am interested in Explainable deep learning
 
-# Publication
+Publication
+======
 * **Interpretable CNNs for Object Classification** &emsp;
   Quanshi Zhang, **Xin Wang**, Ying Nian Wu, Huilin Zhou, and Song-Chun Zhu
   accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
