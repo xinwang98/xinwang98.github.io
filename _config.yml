@@ -10,7 +10,7 @@ locale                   : "China"
 title                    : "Xin Wang"
 title_separator          : "-"
 name                     : &name "Xin Wang"
-description              : &description "Ph.D. Candidate"
+description              : &description "Ph.D. Student"
 url                      : https://xinwang98.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/xinwang98/xinwang98.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xin Wang"
   avatar           : "me.jpg"
-  bio              : "Ph.D. Candidate, Shanghai JiaoTong University"
+  bio              : "Ph.D. student, Shanghai JiaoTong University"
   location         : "Shanghai, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
