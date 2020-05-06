@@ -22,6 +22,6 @@ Publication
 * **Interpretable CNNs for Object Classification** \[[pdf](https://xinwang98.github.io/files/PAMI2020_interpretableCNNs.pdf)\]<br>
     Quanshi Zhang, **Xin Wang**, Ying Nian Wu, Huilin Zhou, and Song-Chun Zhu<br>
     accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-* **Explanatory Graphs for CNNs** \[[pdf](https://arxiv.org/abs/1812.07997)\]<br>
+* **Extraction of an Explanatory Graph to Interpret a CNN** \[[pdf](https://xinwang98.github.io/files/PAMI_ExplanatoryGraph.pdf)\]<br>
     Quanshi Zhang, **Xin Wang**, Ruiming Cao, Ying Nian Wu, Feng Shi, and Song-Chun Zhu<br>
-    arXiv:1812.07997, 2018
+    accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
